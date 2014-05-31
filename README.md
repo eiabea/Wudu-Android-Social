@@ -1,5 +1,5 @@
 #Wudu Android Social
-###NOTE: Be aware that is not almost finished
+###NOTE: Be aware that this is not almost finished
 
 
 Wudu-Android-Social is an Android with goal to simplify third party logins. Currently the following social networks are supported:
