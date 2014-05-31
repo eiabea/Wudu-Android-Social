@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Wudu-Android-Social.iml" filepath="$PROJECT_DIR$/.idea/Wudu-Android-Social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wudu-Android-Social-Core/Wudu-Android-Social-Core.iml" filepath="$PROJECT_DIR$/Wudu-Android-Social-Core/Wudu-Android-Social-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wudu-Android-Social-Sample/Wudu-Android-Social-Sample.iml" filepath="$PROJECT_DIR$/Wudu-Android-Social-Sample/Wudu-Android-Social-Sample.iml" />
+    </modules>
+  </component>
+</project>
+
