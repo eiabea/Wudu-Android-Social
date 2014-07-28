@@ -40,7 +40,6 @@ public class SocialAuthManager implements SocialLifeCycleEvents {
     /**
      *
      */
-
     private void init() {
 
 

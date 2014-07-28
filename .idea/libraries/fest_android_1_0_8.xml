@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fest-android-1.0.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Wudu-Android-Social-Core/build/intermediates/exploded-aar/com.squareup/fest-android/1.0.8/res" />
+      <root url="jar://$PROJECT_DIR$/Wudu-Android-Social-Core/build/intermediates/exploded-aar/com.squareup/fest-android/1.0.8/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

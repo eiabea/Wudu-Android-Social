@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="facebook-android-api-3.16.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Wudu-Android-Social-Core/build/intermediates/exploded-aar/fr.avianey/facebook-android-api/3.16.0/res" />
+      <root url="jar://$PROJECT_DIR$/Wudu-Android-Social-Core/build/intermediates/exploded-aar/fr.avianey/facebook-android-api/3.16.0/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -5,7 +5,16 @@ package at.peterzainzinger.wudu.android.social.core;
  */
 public interface SocialRequestCallbacks {
 
+    /**
+     *
+     * @param token
+     */
     void onAuthenticationSuccess(SocialToken token);
+
+    /**
+     *
+     * @param error
+     */
     void onAuthenticationError(SocialError error);
 
 

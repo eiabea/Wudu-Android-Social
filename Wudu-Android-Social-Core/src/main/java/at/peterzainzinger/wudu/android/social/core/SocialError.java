@@ -5,5 +5,9 @@ package at.peterzainzinger.wudu.android.social.core;
  */
 public interface SocialError {
 
+    /**
+     *
+     * @return
+     */
     public String getMessage();
 }

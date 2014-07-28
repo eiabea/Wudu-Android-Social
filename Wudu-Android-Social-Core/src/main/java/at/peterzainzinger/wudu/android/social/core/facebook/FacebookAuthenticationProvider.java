@@ -19,7 +19,8 @@ import java.util.List;
 /**
  * Created by peterzainzinger on 24/04/14.
  */
-public class FacebookAuthenticationProvider extends SocialAuthProvider implements FacebookRequestCallbacks {
+public class
+        FacebookAuthenticationProvider extends SocialAuthProvider implements FacebookRequestCallbacks {
 
 
     public static final String TAG = FacebookAuthenticationProvider.class.getSimpleName();

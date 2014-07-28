@@ -128,6 +128,9 @@ public abstract class SocialAuthProvider implements SocialRequestCallbacks,Socia
      */
     public void onNewIntent(Intent intent){}
 
+    /**
+     *
+     */
     @Override
     public void onStart() {}
 

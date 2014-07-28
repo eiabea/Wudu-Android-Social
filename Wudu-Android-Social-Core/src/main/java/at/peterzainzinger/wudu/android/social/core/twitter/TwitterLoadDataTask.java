@@ -30,7 +30,6 @@ public class TwitterLoadDataTask extends AsyncTask<TwitterLoadDataTaskInputModel
                     .getOAuthAccessToken(input.getRequestToken(),
                             input.getVerifier());
 
-
             return new TwitterToken(accessToken);
 
 

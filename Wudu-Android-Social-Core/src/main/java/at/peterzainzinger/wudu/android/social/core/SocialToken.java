@@ -5,6 +5,10 @@ package at.peterzainzinger.wudu.android.social.core;
  */
 public interface SocialToken {
 
+    /**
+     *
+     * @return
+     */
     public String getToken();
 
 }

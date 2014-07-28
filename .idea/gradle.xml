@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LearnDagger" />
             <option value="$PROJECT_DIR$/Wudu-Android-Social-Core" />
             <option value="$PROJECT_DIR$/Wudu-Android-Social-Sample" />
           </set>

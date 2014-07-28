@@ -8,7 +8,8 @@ import twitter4j.auth.AccessToken;
  */
 public class TwitterToken implements SocialToken {
 
-    public String token;
+    private String token;
+    private String tokenSecret;
 
     public TwitterToken(String token){
 
@@ -19,6 +20,7 @@ public class TwitterToken implements SocialToken {
 
         assert token!=null;
         this.token = token.getToken();
+        this.tokenSecret=token.getTokenSecret();
 
 
     }
