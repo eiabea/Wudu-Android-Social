@@ -12,7 +12,7 @@ In contrary to [socialauth-android](https://code.google.com/p/socialauth-android
 
 ##General Usage
 
-Fist, initalize and register the Providers (most of the time in onCreate) like that:
+First, initalize and register the Providers (most of the time in onCreate) like that:
 
         googleAuthenticationProvider = new GoogleAuthenticationProvider(activity,callbacks);
 		SocialAuthManagerFactory.getInstance(context).
